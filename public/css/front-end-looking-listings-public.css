@@ -1,0 +1,12 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.cmb2-text-email,
+.cmb2_textarea,
+.cmb2-wrap textarea,
+.cmb2_textarea,
+.cmb-th + .cmb-td {
+    float: left;
+    width: 100% !important;
+} 
